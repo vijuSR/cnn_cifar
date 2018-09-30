@@ -10,7 +10,7 @@ Using Convolutional Neural Networks for the image classification on CIFAR datase
 1. ### install the dependencies
     `pip install -r requirements.txt`  
 1. ### Now you are ready to run the code.
-    `python3 rnn_mnist.py`  
+    `python3 cnn_cifar.py`  
 
 > For any missing dependencies, install after "activating your-venv" using:  
     `pip install package-name`
