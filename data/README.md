@@ -1,0 +1,1 @@
+## > download the python version of cifar-10 dataset and place the unzipped folder in this directory. 
